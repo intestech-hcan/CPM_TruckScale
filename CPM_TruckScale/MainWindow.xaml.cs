@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CPM_TruckScale.Constants;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -41,7 +42,7 @@ namespace CPM_TruckScale
 
         private void btnNewTruck_Click(object sender, RoutedEventArgs e)
         {
-
+            new Intes_MessageBox("Kullanıcı Adı/Şifre bilgisi hatalı.", null, "Tamam", (int)Enums.MessageBoxType.Warning).ShowDialog();
         }
     }
 }
