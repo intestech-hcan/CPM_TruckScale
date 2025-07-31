@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|c:\\users\\intes\\documents\\github\\cpm_truckscale\\cpm_truckscale\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|solutionrelative:cpm_truckscale\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|c:\\users\\intes\\documents\\github\\cpm_truckscale\\cpm_truckscale\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|solutionrelative:cpm_truckscale\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|c:\\users\\intes\\documents\\github\\cpm_truckscale\\cpm_truckscale\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|solutionrelative:cpm_truckscale\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|c:\\users\\intes\\documents\\github\\cpm_truckscale\\cpm_truckscale\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|solutionrelative:cpm_truckscale\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|c:\\users\\intes\\documents\\github\\cpm_truckscale\\cpm_truckscale\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|solutionrelative:cpm_truckscale\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|c:\\users\\intes\\documents\\github\\cpm_truckscale\\cpm_truckscale\\dal\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4E2DBEC-EA59-4FBE-B6D1-107A4D4AF03F}|CPM_TruckScale\\CPM_TruckScale.csproj|solutionrelative:cpm_truckscale\\dal\\dbconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\App.xaml",
+              "RelativeDocumentMoniker": "CPM_TruckScale\\App.xaml",
+              "ToolTip": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\App.xaml",
+              "RelativeToolTip": "CPM_TruckScale\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-31T15:29:04.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CPM_TruckScale\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CPM_TruckScale\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:53:24.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CPM_TruckScale\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\MainWindow.xaml",
+              "RelativeToolTip": "CPM_TruckScale\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-31T12:34:07.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\Login.xaml",
+              "RelativeDocumentMoniker": "CPM_TruckScale\\Login.xaml",
+              "ToolTip": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\Login.xaml",
+              "RelativeToolTip": "CPM_TruckScale\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-11T07:49:23.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbConnector.cs",
+              "DocumentMoniker": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\DAL\\DbConnector.cs",
+              "RelativeDocumentMoniker": "CPM_TruckScale\\DAL\\DbConnector.cs",
+              "ToolTip": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\DAL\\DbConnector.cs",
+              "RelativeToolTip": "CPM_TruckScale\\DAL\\DbConnector.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAlwDcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T07:25:51.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "CPM_TruckScale\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\intes\\Documents\\GitHub\\CPM_TruckScale\\CPM_TruckScale\\Login.xaml.cs",
+              "RelativeToolTip": "CPM_TruckScale\\Login.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:55:09.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

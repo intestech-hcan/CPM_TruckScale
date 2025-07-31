@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\AppBackground.png" />
+    <None Remove="Images\IconMaximize.png" />
+    <None Remove="Images\IconMenu.png" />
+    <None Remove="Images\IconMinimize.png" />
+    <None Remove="Images\Warning.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel" Version="4.3.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\AppBackground.png" />
+    <Resource Include="Images\Background.png" />
+    <Resource Include="Images\IconClose.png" />
+    <Resource Include="Images\IconMaximize.png" />
+    <Resource Include="Images\IconMenu.png" />
+    <Resource Include="Images\IconMinimize.png" />
+    <Resource Include="Images\Warning.png" />
+  </ItemGroup>
+
+</Project>
